@@ -1,0 +1,1 @@
+NSK Baymax Fanduct for FLSun SR and Ceramic Heating Core by Nissenko on Thingiverse: https://www.thingiverse.com/thing:5349373
