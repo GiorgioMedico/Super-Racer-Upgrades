@@ -6,11 +6,11 @@ This repository contains all the files and configurations I used to upgrade my S
 
 ### STL Files
 - `Flsun SR housing`: Housing for 5015 and BGM lite with cable management
-- `NSK Baymax Fanduct`: Fan duct compatible with Flsun SR and Ceramic
+- `NSK Baymax Fanduct`: Fan duct compatible with Flsun SR and Ceramic Heating Core
 - `Cable_Clip_V2.stl`: Cable management clip
 - `Flsun_SR_Feet_2.stl`: Modified printer feet
-- `last_klipper.stl`: Latest Klipper mount
-- `plate support v24.stl`: Plate support version 24
+- `last_klipper.stl`: Latest Raspberry Pi 3A+ mount with Robin Nano V3.1, and a step-down converter
+- `plate support v24.stl`: Nozzle cleaning plate support - enables automatic nozzle cleaning functionality
 
 ### Configuration Files
 - `OrcaConfig/`: Configuration files for OrcaSlicer
